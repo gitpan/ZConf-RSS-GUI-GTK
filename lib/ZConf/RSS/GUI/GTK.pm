@@ -10,15 +10,15 @@ use Gtk2::SimpleList;
 
 =head1 NAME
 
-ZConf::RSS::GUI - Providees the GTK backend for ZConf::RSS::GUI.
+ZConf::RSS::GUI::GTK - Providees the GTK backend for ZConf::RSS::GUI.
 
 =head1 VERSION
 
-Version 0.0.0
+Version 0.0.1
 
 =cut
 
-our $VERSION = '0.0.0';
+our $VERSION = '0.0.1';
 
 
 =head1 SYNOPSIS
